@@ -5,7 +5,7 @@ A personal archive of mathematical and physical ideas, research notes, proofs, c
 ## Articles
 [2] 2608.02 [[PDF](exact modes geometric weighted sums.pdf)] *submitted on 2026-08-15*
 
-**Exact Global Modes of Two-Term Weighted Sums of i.i.d. Geometric Random Variables**
+***Exact Global Modes of Two-Term Weighted Sums of i.i.d. Geometric Random Variables***
 
 5 pages
 
@@ -15,7 +15,7 @@ Let X and Y be independent geometric random variables on Z≥0 with P(X = k) =P(
 
 [1] 2608.01 [[PDF](one unit extreme targets.pdf)] *submitted on 2026-08-14*
 
-**Ruin, Survival, and Arbitrarily High Finite Targets in a +2/ − 1 Gambling Game**
+***Ruin, Survival, and Arbitrarily High Finite Targets in a +2/ − 1 Gambling Game***
 
 10 pages
 
