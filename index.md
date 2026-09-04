@@ -3,6 +3,15 @@
 A personal archive of mathematical and physical ideas, research notes, proofs, conjectures, and explorations.
 
 ## Articles
+[2] 2608.02 [[PDF](exact modes geometric weighted sums.pdf)] *submitted on 2026-08-15*
+
+**Exact Global Modes of Two-Term Weighted Sums of i.i.d. Geometric Random Variables**
+
+5 pages
+
+Let X and Y be independent geometric random variables on Z≥0 with P(X = k) =P(Y = k) =p(1 − p)^k. For positive integers a, b, we determine the global modes of Z = aX + bY . The probability mass function may have gaps and local rises and falls. We prove that every global mode is a multiple of lcm(a, b) and that there are at most two global modes. A logarithmic threshold gives their exact locations and determines whether one or two modes occur. We also give an exact formula for every probability and a small-p asymptotic formula for the mode. The proof parametrizes the solutions of ax + by = n by residue classes and then compares the maxima of consecutive blocks.
+**Category:** Probability
+
 
 [1] 2608.01 [[PDF](one unit extreme targets.pdf)] *submitted on 2026-08-14*
 
