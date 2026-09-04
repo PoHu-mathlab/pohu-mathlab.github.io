@@ -4,7 +4,7 @@ A personal archive of mathematical and physical ideas, research notes, proofs, c
 
 ## Articles
 
-[1] 2608.01 [[PDF](one unit extreme targets)] *submitted on 2026-08-14*
+[1] 2608.01 [[PDF](one unit extreme targets.pdf)] *submitted on 2026-08-14*
 
 **Ruin, Survival, and Arbitrarily High Finite Targets in a +2/ − 1 Gambling Game**
 
